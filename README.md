@@ -36,9 +36,9 @@ A CRUD APP that handles requests using HTTP VERBS
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `name`      | `string` | **Required**. Name of user to fetch |
-| `email`      | `string` | **Required**. Email of user to fetch |
-| `country`      | `string` | **Required**. Country of user to fetch |
+| `name`      | `string` | **Required**. Name of user to create |
+| `email`      | `string` | **Required**. Email of user to create |
+| `country`      | `string` | **Required**. Country of user to create |
 
 #### Update user
 
