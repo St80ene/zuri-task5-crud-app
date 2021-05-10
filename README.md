@@ -1,7 +1,7 @@
 
 # ZURI-TASK5-APP
 
-A CRUD APP that handles requests using HTTP VERBS
+A CRUD APP that handles Client's requests using HTTP VERBS
 
 
 ## API Reference
