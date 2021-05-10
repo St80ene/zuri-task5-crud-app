@@ -89,6 +89,10 @@ To deploy this project run
   npm start
 ```
 
+## Heroku Deployment Links
+Hosted Link: (https://dashboard.heroku.com/apps/zuri-task5-app)
+Base URL: (https://zuri-task5-app.herokuapp.com/)
+
   
 ## Run Locally
 
