@@ -90,7 +90,6 @@ To deploy this project run
 ```
 
 ## Heroku Deployment Links
-Hosted Link: (https://dashboard.heroku.com/apps/zuri-task5-app)
 Base URL: (https://zuri-task5-app.herokuapp.com/)
 
   
