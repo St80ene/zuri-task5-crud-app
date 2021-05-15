@@ -90,7 +90,7 @@ To deploy this project run
 ```
 
 ## Heroku Deployment Links
-Base URL: (https://zuri-task5-app.herokuapp.com/)
+Base URL: https://zuri-task5-app.herokuapp.com/
 
   
 ## Run Locally
