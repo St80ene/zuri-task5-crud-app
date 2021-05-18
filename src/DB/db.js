@@ -8,7 +8,7 @@ const dbConnectionOptions = {
 	useUnifiedTopology: true,
 };
 
-const databaseURI = process.env.DATABASE_URI;
+const databaseURI = `${process.env.DATABASE_URI}`;
 
 class DataBase {
 	constructor() {
