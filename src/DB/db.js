@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+require('dotenv').config({ path: 'DATABASE_URI' });
 
 const dbConnectionOptions = {
 	useNewUrlParser: true,
