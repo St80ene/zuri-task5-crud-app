@@ -1,7 +1,7 @@
 
 # ZURI-TASK5-APP
 
-A CRUD APP that handles requests using HTTP VERBS
+A CRUD APP that handles Client's requests using HTTP VERBS
 
 
 ## API Reference
@@ -36,9 +36,9 @@ A CRUD APP that handles requests using HTTP VERBS
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `name`      | `string` | **Required**. Name of user to fetch |
-| `email`      | `string` | **Required**. Email of user to fetch |
-| `country`      | `string` | **Required**. Country of user to fetch |
+| `name`      | `string` | **Required**. Name of user to create |
+| `email`      | `string` | **Required**. Email of user to create |
+| `country`      | `string` | **Required**. Country of user to create |
 
 #### Update user
 
@@ -88,6 +88,9 @@ To deploy this project run
 ```bash
   npm start
 ```
+
+## Heroku Deployment Links
+Base URL: https://zuri-task5-app.herokuapp.com/
 
   
 ## Run Locally
